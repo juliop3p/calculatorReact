@@ -1,3 +1,10 @@
+# Calculadora 
+
+## feita seguindo o curso web-moderno da Cod3r.
+
+![calc-img](https://github.com/juliop3p/calculadora-react/blob/master/Calculator-web.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
